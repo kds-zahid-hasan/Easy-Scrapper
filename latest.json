@@ -1,0 +1,7 @@
+{
+  "app": "EasyScrapper",
+  "platform": "windows",
+  "version": "1.0.3",
+  "sha256": "OPTIONAL_HASH",
+  "download": "https://download.easyscrapper.com/windows/EasyScrapper.exe"
+}
